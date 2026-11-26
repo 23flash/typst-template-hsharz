@@ -40,5 +40,5 @@ Beispiel bauen: `typst compile --font-path fonts main.typ`
 Pakete (`codly`, `codly-languages`, `glossarium`) lädt Typst beim ersten Kompilieren aus der Typst-Registry.
 
 # Gute Noten Counter
-3x 1.0
+4x 1.0
 2x 2.3
